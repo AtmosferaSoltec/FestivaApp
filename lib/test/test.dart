@@ -1,0 +1,1 @@
+export 'package:festiva_flutter/test/tabs_page.dart';
